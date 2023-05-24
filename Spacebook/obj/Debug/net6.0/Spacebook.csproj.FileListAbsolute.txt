@@ -32,3 +32,37 @@ C:\Users\yasteelg\OneDrive - PaySpace\Desktop\Group Assessment - Social Media Ap
 C:\Users\yasteelg\OneDrive - PaySpace\Desktop\Group Assessment - Social Media App\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.pdb
 C:\Users\yasteelg\OneDrive - PaySpace\Desktop\Group Assessment - Social Media App\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.genruntimeconfig.cache
 C:\Users\yasteelg\OneDrive - PaySpace\Desktop\Group Assessment - Social Media App\SocialMediaApp\Spacebook\obj\Debug\net6.0\ref\Spacebook.dll
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\appsettings.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\Client\package-lock.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\Client\package.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\Client\tsconfig.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\Spacebook.staticwebassets.runtime.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\Spacebook.exe
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\Spacebook.deps.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\Spacebook.runtimeconfig.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\Spacebook.dll
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\bin\Debug\net6.0\Spacebook.pdb
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.csproj.AssemblyReference.cache
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.AssemblyInfoInputs.cache
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.AssemblyInfo.cs
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.csproj.CoreCompileInputs.cache
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.RazorAssemblyInfo.cache
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.RazorAssemblyInfo.cs
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\staticwebassets\msbuild.Spacebook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\staticwebassets\msbuild.build.Spacebook.props
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Spacebook.props
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Spacebook.props
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\scopedcss\bundle\Spacebook.styles.css
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\scopedcss\projectbundle\Spacebook.bundle.scp.css
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.dll
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\refint\Spacebook.dll
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.pdb
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\Spacebook.genruntimeconfig.cache
+C:\Users\ndumisoz\Source\Repos\SocialMediaApp\Spacebook\obj\Debug\net6.0\ref\Spacebook.dll

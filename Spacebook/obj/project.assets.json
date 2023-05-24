@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yasteelg\\.nuget\\packages\\": {},
+    "C:\\Users\\ndumisoz\\.nuget\\packages\\": {},
     "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yasteelg\\OneDrive - PaySpace\\Desktop\\Group Assessment - Social Media App\\SocialMediaApp\\Spacebook\\Spacebook.csproj",
+      "projectUniqueName": "C:\\Users\\ndumisoz\\Source\\Repos\\SocialMediaApp\\Spacebook\\Spacebook.csproj",
       "projectName": "Spacebook",
-      "projectPath": "C:\\Users\\yasteelg\\OneDrive - PaySpace\\Desktop\\Group Assessment - Social Media App\\SocialMediaApp\\Spacebook\\Spacebook.csproj",
-      "packagesPath": "C:\\Users\\yasteelg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yasteelg\\OneDrive - PaySpace\\Desktop\\Group Assessment - Social Media App\\SocialMediaApp\\Spacebook\\obj\\",
+      "projectPath": "C:\\Users\\ndumisoz\\Source\\Repos\\SocialMediaApp\\Spacebook\\Spacebook.csproj",
+      "packagesPath": "C:\\Users\\ndumisoz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ndumisoz\\Source\\Repos\\SocialMediaApp\\Spacebook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\yasteelg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ndumisoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
