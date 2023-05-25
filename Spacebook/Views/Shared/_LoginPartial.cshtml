@@ -1,0 +1,32 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@using Spacebook.Data
+
+@inject SignInManager<SpacebookUser> SignInManager
+@inject UserManager<SpacebookUser> UserManager
+
+<ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        var spacebookUser = (SpacebookUser)await UserManager.GetUserAsync(User);
+        <li class="nav-item">
+            <a id="manage" class="nav-link" asp-area="Identity" title="Manage">Hello @spacebookUser.UserName!</a>
+        </li>
+
+        <li class="nav-item">
+            <form id="logoutForm" class="form-inline" asp-controller="Auth" asp-action="Logout" asp-route-returnUrl="@Url.Action("Index", "Auth", new { area = "" })">
+                <button id="logout" type="submit" class="nav-link btn btn-link">Logout</button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link" asp-controller="Auth" asp-action="Register">Register</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-controller="Auth" asp-action="Index">Login</a>
+        </li>
+    }
+</ul>
+
