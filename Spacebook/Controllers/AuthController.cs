@@ -1,8 +1,6 @@
 ﻿namespace Spacebook.Controllers
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
     using System.Threading.Tasks;
 
     using Microsoft.AspNetCore.Authentication;
@@ -30,7 +28,6 @@
             this.emailStore = GetEmailStore();
         }
 
-        public IList<AuthenticationScheme> ExternalLogins { get; set; } //check if you need this
         public string ReturnUrl { get; set; }
 
         [TempData]
@@ -40,7 +37,7 @@
         {
             return this.View();
         }
-        public IActionResult Index() //check if you need this
+        public IActionResult Index()
         {
             return View();
         }
@@ -49,7 +46,6 @@
         public async Task<IActionResult> Login(Login model, string? returnUrl = null)
         {
             returnUrl ??= this.Url.Content("~/");
-            this.ExternalLogins = (await this.signInManager.GetExternalAuthenticationSchemesAsync()).ToList(); // Do we really need this
 
             if (this.ModelState.IsValid)
             {
@@ -82,13 +78,12 @@
         public async Task<IActionResult> Register(Register model, string? returnUrl = null)
         {
             returnUrl ??= Url.Content("~/");
-            ExternalLogins = (await signInManager.GetExternalAuthenticationSchemesAsync()).ToList();//Do we need this
 
             if (ModelState.IsValid)
             {
                 var user = CreateUser();
 
-                await userStore.SetUserNameAsync(user, model.Email, CancellationToken.None);
+                await userStore.SetUserNameAsync(user, model.Username, CancellationToken.None);
                 await emailStore.SetEmailAsync(user, model.Email, CancellationToken.None);
 
                 var result = await userManager.CreateAsync(user, model.Password);
@@ -109,7 +104,7 @@
                 this.ModelState.AddModelError(string.Empty, "Invalid registration attempt.");
             }
 
-            return View(model);// do we need model here
+            return View(model);
         }
 
         [HttpPost]
@@ -137,8 +132,6 @@
             returnUrl ??= this.Url.Content("~/");
 
             await this.HttpContext.SignOutAsync(IdentityConstants.ExternalScheme);
-
-            this.ExternalLogins = (await this.signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
 
             this.ReturnUrl = returnUrl;
         }
